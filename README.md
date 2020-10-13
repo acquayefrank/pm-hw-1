@@ -1,7 +1,10 @@
 # pm-hw-1
 
-https://machinelearningmastery.com/feature-selection-for-regression-data/
+Linear and Logistic Regression performed on the Kaggle fish dataset found [here](https://www.kaggle.com/aungpyaeap/fish-market)
 
-https://www.kaggle.com/aungpyaeap/fish-market
+* Linear Regression seeks to predict weight of fish
 
-https://www.kaggle.com/akdagmelih/multiplelinear-regression-fish-weight-estimation
+* Logistic Regression seeks to predict species of fish
+
+
+
